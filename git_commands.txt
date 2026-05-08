@@ -8,3 +8,13 @@ git --help
 git recover --staged testing.py                                                                                     
 git restore --staged testing.py                                                                                     
 git restore testing.py
+git config --global user.name "amaan  
+git config --global user.email "khanaffan513dkxxx@gmail.com"
+git pull origin master --allow-unrelated-histories --no-rebase
+git push origin master
+git add .
+git status
+git commit -m "added practice file"git push
+git push --set-upstream origin master
+git push
+cd project-folder
