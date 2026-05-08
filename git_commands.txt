@@ -1,0 +1,10 @@
+git status                                                                                                          
+rm testing.py                                                                                                       
+git recover testing.py                                                                                              
+git recover --staged testing.py                                                                                     
+git recover testing.py                                                                                              
+git recover --staged testing.py                                                                                     
+git --help                                                                                                          
+git recover --staged testing.py                                                                                     
+git restore --staged testing.py                                                                                     
+git restore testing.py
